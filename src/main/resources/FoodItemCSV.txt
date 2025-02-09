@@ -1,0 +1,5 @@
+1,Bread,2.50
+2,Milk,3.00
+3,Cheese,5.50
+4,Rice,1.80
+5,Apple,1.20
